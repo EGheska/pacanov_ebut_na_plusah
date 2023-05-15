@@ -1,0 +1,3 @@
+/home/dima/CLionProjects/pacanov_ebut_na_plusah/cmake-build-debug/CMakeFiles/pacanov_ebut_na_plusah.dir
+/home/dima/CLionProjects/pacanov_ebut_na_plusah/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dima/CLionProjects/pacanov_ebut_na_plusah/cmake-build-debug/CMakeFiles/rebuild_cache.dir
